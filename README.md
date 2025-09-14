@@ -23,4 +23,4 @@ Think Jarvis, but coded in Python with full control over commands and extensions
 ⚙️ **Setup & Installation**
 1. Clone this repo:
 ```bash
-git clone https://github.com/officialcoding2025/AI Assistant.git
+git clone https://github.com/officialcoding2025/AI-Assistant.git
